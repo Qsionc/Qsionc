@@ -1,14 +1,16 @@
-# Hello!
+pa# Hello!
 
-I am Qsionc :nerd_face:
+I am Qsionc 🤓
 It is nice of you to come and see my creations. Please, leave a comment and share some insight!
 
-## $ whoami :relieved:
+## $ whoami 😌
 
 I am young integrated circuits developer and i mainly design and make simulations of new Transistor-based technologies for a living on Warsaw University of Technology.<br>
 As a hobby (and hopefully, as second job) i am C/C++/Python developer aspiring to, perhaps, be home grown game-dev.
 
-## What am i learning :book:
+---
+
+## What am i learning 📖
 
 ### C++
 I am currently in process of practicing many C+ and uncovering "mysteries" behind it and STL. There is still many little elements i need to learn and practice.
@@ -26,3 +28,13 @@ Additionally, im interested in Machine Learning and Numeric Algorithms aswell
 
 I want to learn HTML/CSS/JavaScript and also touch some Java. We will see how this one will go.
 
+---
+# Hobbies
+
+C++/Python are my passions obviously 🤓
+But i also like:
+1. skiing ⛷
+2. working out 🏋️‍♂️
+3. playing games 🎮
+4. windsurfing 🏄‍♂️
+5. Playing drums 🥁 and organs 🎹
