@@ -36,7 +36,7 @@ I want to learn HTML/CSS/JavaScript and also touch some Java. We will see how th
 ---
 # Hobbies
 
-C++/Python are my passions obviously 🤓
+C++/Rust/Python are my passions obviously 🤓
 But i also like:
 1. skiing ⛷
 2. working out 🏋️‍♂️
