@@ -1,4 +1,4 @@
-pa# Hello!
+# Hello!
 
 I am Qsionc 🤓
 It is nice of you to come and see my creations. Please, leave a comment and share some insight!
@@ -7,6 +7,7 @@ It is nice of you to come and see my creations. Please, leave a comment and shar
 
 I am young integrated circuits developer and i mainly design and make simulations of new Transistor-based technologies for a living on Warsaw University of Technology.<br>
 As a hobby (and hopefully, as second job) i am C/C++/Python developer aspiring to, perhaps, be home grown game-dev.
+Now also - learning Rumst
 
 ---
 
@@ -19,6 +20,10 @@ Additionally, i am learning OpenGL, and i will also try to learn Vulkan API to c
 ### Python
 
 I consider myself junior Python programmer and i still want to learn many frameworks this language offers, like Django, Tensorflow, etc.
+
+### Rust
+
+I also consider myself infant in Rust now, but [Tranzystorek](https://github.com/tranzystorek-io) got my back!
 
 ### Overall software development
 
