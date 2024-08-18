@@ -1,41 +1,16 @@
 # Hello!
 
 I am Qsionc 🤓
-It is nice of you to come and see my creations. Please, leave a comment and share some insight!
+I usually code abominations. 
+Usually in abominable C/C++, also trying myself in Rust, Zig, Java and even C3. 
+I used to be great C/C++ preacher but recently C bit me so hard in my backside with UB that it left me with sour taste of unwashed you-know-what in my mouth...
 
-## $ whoami 😌
-
-I am young integrated circuits developer and i mainly design and make simulations of new Transistor-based technologies for a living on Warsaw University of Technology.<br>
-As a hobby (and hopefully, as second job) i am C/C++/Python developer aspiring to, perhaps, be home grown game-dev.
-Now also - learning Rumst
-
----
-
-## What am i learning 📖
-
-### C++
-I am mostly learning OpenGL, and i will also try to learn Vulkan API to create games. Also, I try to practice some algorithms implementation and learn more about Computer Science from theoretical point of view, than from pure engineering one.
-
-### Python
-
-I consider myself junior Python programmer and i still want to learn many frameworks this language offers, like Django, Tensorflow, etc. But i moslty use python to write scripts avoiding writting scripts in shell.
-
-### Rust
-
-I also consider myself infant in Rust now, but [Tranzystorek](https://github.com/tranzystorek-io) got my back!
-
-### Overall software development
-
-Additionally, im interested in Machine Learning and Numeric Algorithms aswell 
-
-### Future plans
-
-I want to learn HTML/CSS/JavaScript and also touch some Java. We will see how this one will go.
+Sometimes Python, recently picking up Julia for quick-maths (Please, stop using matlab, its bad and I DO NOT invite anyone to discussion, I will not debate my feelings about matlab, I refuse to change my mind)
 
 ---
 # Hobbies
 
-C++/Rust/Python are my passions obviously 🤓
+Engineering in regards to electronics (especially micro-electronics) 🤓
 But i also like:
 1. skiing ⛷
 2. working out 🏋️‍♂️
