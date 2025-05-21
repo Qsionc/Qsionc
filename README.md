@@ -1,19 +1,15 @@
-# Hello!
+Hi 👋
+My name is Bartosz Dec.
 
-I am Qsionc 🤓
-I usually code abominations. 
-Usually in abominable C/C++, also trying myself in Rust, Zig, Java and even C3. 
-I used to be great C/C++ preacher but recently C bit me so hard in my backside with UB that it left me with sour taste of unwashed you-know-what in my mouth...
+I am Microelectronics Enginner, with aspirations to create
+own processors, analog and digital designs and device models. 👨‍💻
 
-Sometimes Python, recently picking up Julia for quick-maths (Please, stop using matlab, its bad and I DO NOT invite anyone to discussion, I will not debate my feelings about matlab, I refuse to change my mind)
+I am also a programmer with heavy interest in embedded,
+OS Development and OpenSource EDA tools development.☝️🤓
 
 ---
-# Hobbies
 
-Engineering in regards to electronics (especially micro-electronics) 🤓
-But i also like:
-1. skiing ⛷
-2. working out 🏋️‍♂️
-3. playing games 🎮
-4. windsurfing 🏄‍♂️
-5. Playing drums 🥁 and organs 🎹
+What you see here are usually code abominations that
+I used to teach myself/refresh programming from college times.
+
+Real chalanges and projects incoming! 😏 
